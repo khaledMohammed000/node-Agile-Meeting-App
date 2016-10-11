@@ -1,0 +1,19 @@
+{
+  "name": "virtual-standout-meeting-notes",
+  "version": "1.0.0",
+  "description": "This is an Agile meeting app that takes notes virtually",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledMohammed000/node-Agile-Meeting-App.git"
+  },
+  "author": "Mohammed Khaled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaledMohammed000/node-Agile-Meeting-App/issues"
+  },
+  "homepage": "https://github.com/khaledMohammed000/node-Agile-Meeting-App#readme"
+}
